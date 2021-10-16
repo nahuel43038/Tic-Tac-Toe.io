@@ -1,0 +1,45 @@
+body {
+  background-color: white;
+}
+
+body {
+  font-size: 1em;
+}
+
+h1 {
+  color: white;
+  font-size: 20px;
+}
+
+#container {
+  display: flex;
+  align-items: center;
+}
+
+section {
+  margin-left: auto;
+  margin-right: auto;
+  height: 400px;
+  width: 600px;
+  background-color: red;
+}
+
+#fila1 {
+  height: 200px;
+  width: 200px;
+  border-bottom: 2px solid blue;
+}
+
+#fila2 {
+  height: 200px;
+  width: 200px;
+  border-bottom: 2px solid yellow;
+}
+
+#fila {
+  height: 200px;
+  width: 200px;
+  border-bottom: 2px solid #000;
+}
+
+/*# sourceMappingURL=styles.css.map */
